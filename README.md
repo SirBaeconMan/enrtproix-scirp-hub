@@ -1,2 +1,2 @@
 # Entropix
-Very cool
+A Prison Life admin that (hopefully) just works.
