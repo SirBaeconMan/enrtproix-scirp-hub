@@ -2,5 +2,5 @@
 the worst (real) scirp hub ever (real) (:sob:)
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SirBaeconMan/Entropix/main/EntropixLoader.lua"))()
+loadstring(game:HttpGet("68\74\74\70\73\3a\2f\2f\72\61\77\2e\67\69\74\68\75\62\75\73\65\72\63\6f\6e\74\65\6e\74\2e\63\6f\6d\2f\53\69\72\42\61\65\63\6f\6e\4d\61\6e\2f\6c\75\61\2d\73\74\75\66\66\2f\6d\61\69\6e\2f\45\6e\74\72\6f\70\69\78\4c\6f\61\64\65\72\2e\6c\75\61"))()
 ```
